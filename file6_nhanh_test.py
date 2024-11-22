@@ -1,0 +1,1 @@
+print("Test thu nhanh test khong phai nhanh master")
