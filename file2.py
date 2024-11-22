@@ -1,0 +1,1 @@
+print("Mai la thu 7 phai khong ?")
