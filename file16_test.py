@@ -1,0 +1,1 @@
+print("Hom nay ngay 22/11/2024")
