@@ -8,9 +8,9 @@ print("Hom qua co mixi cup")
 print("Hom qua co mixi cup va so 3")
 print("Hom qua co mixi cup va so 2")
 print("Conflick wwhen pull")
-
+print("4567")
 print("Conflick when merge and 26/11/2024")
 
-print("56789")
+print("8966")
 
 
