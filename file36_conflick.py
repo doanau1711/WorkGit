@@ -7,3 +7,6 @@ print("conflict merge master")
 print("123456")
 
 print("7891011")
+
+print("conflict merge o nhanh test")
+
