@@ -7,6 +7,7 @@ print("Hom nay ngay 25/11/2024 va hom nay thu 2")
 print("Hom qua co mixi cup")
 print("Hom qua co mixi cup va so 3")
 print("Hom qua co mixi cup va so 2")
+print("Conflick wwhen pull")
 
+print("Conflick when merge and 26/11/2024")
 
-print("Ngay mai la thu 4 and conflick whwen merge")
