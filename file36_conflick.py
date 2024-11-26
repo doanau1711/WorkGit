@@ -5,4 +5,4 @@ print("123456")
 print("conflict merge")
 print("conflict merge master")
 print("123456")
-
+print("conflict merge o nhanh test")
